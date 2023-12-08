@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/model/Laundry.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/dao/LaundryDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/dao/LaundryDAOImpl.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/view/LaundryView.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/view/reportfix.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/view/reportLaundry.jrxml</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/service/LaundryServiceImpl.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/view/Koneksi.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/service/LaundryService.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/config/LaundryTableModel.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/spring-configuration.xml</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/jdbc.properties</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/app.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/DataLaundry/src/com/labti/dataLaundry/controller/LaundryController.java</file>
+        </group>
+    </open-files>
+</project-private>
